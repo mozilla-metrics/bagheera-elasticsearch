@@ -1,6 +1,6 @@
 # Bagheera ElasticSearch #
 
-Version: 0.5  
+Version: 0.6  
 
 #### Adds support for ElasticSearch persistence to a bagheera server. ####
 
